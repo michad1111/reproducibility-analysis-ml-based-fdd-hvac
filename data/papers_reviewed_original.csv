@@ -5,7 +5,7 @@ Paper ID old,DOI,1a. Are all the data sources listed?,1b. What type of data is u
 ≠
 Error Est.",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,1a + 1d + 5a + 5c + 5d,1a + 1d + 5a + 5c + 5d + 5e
 2,https://doi.org/10.1109/ICTAI.2018.00136,n=n,real-world=real-world,n=n,proprietary=proprietary,,y=y,,n=n,,na=na,y=y,,n,n=n,n,n,n=n,n=n,n=n,,T/V/T=T/V/T,,,,"Precision, Recall=Precision, Recall",y=y,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
-3,https://doi.org/10.1109/ICVR57957.2023.10169760,n=n,not mentioned=not mentioned,n=n,not mentioned=not mentioned,,n=n,,n=n,,na=na,n=n,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,"""Operational KPIs (man hour reduction, timeliness rate etc)""=""Operational KPIs (man hour reduction, timeliness rate etc)""",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
+3,https://doi.org/10.1109/ICVR57957.2023.10169760,n=n,not mentioned=not mentioned,n=n,not mentioned=not mentioned,,n=n,,n=n,,na=na,n=n,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,Operational KPIs=Operational KPIs,n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 4,https://doi.org/10.1109/AIKIIE60097.2023.10390401,n=n,simulation=simulation,n=n,not mentioned=not mentioned,,n=n,,n=n,,na=na,n=n,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,"TPR, FPR, F1 score, Accuracy=TPR, FPR, F1 score, Accuracy",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 5,https://doi.org/10.1109/ICICT55905.2022.00043,n=n,"real-world, simulation=real-world, simulation",n=n,not mentioned=not mentioned,,y=y,,n=n,,y,y=y,,n=n,n=n,n=n,n=n,n=n,y=y,n=n,,T/V/T=T/V/T,,,,"Accuracy, Loss
 ≠
@@ -25,14 +25,14 @@ Accuracy, F1 score, Recall, Precision",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na
 ≠
 F1 score, Accuracy, Recall, Precision",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 20,https://doi.org/10.1109/ETFA46521.2020.9212088,y,real-world=real-world,n,public,,y=y,,n=n,,na=na,y=y,,y=y,n=n,y=y,n=n,n=n,y=y,n=n,,Cross Validation=Cross Validation,,,,"F1 score, Accuracy, Recall, Precision=F1 score, Accuracy, Recall, Precision",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
-22,https://doi.org/10.1109/ComplexSys.2015.7385977,n=n,simulation=simulation,n=n,public=public,,y,,n=n,,na=na,n=n,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,"""Operational KPIs (man hour reduction, timeliness rate etc)"", Charts
+22,https://doi.org/10.1109/ComplexSys.2015.7385977,n=n,simulation=simulation,n=n,public=public,,y,,n=n,,na=na,n=n,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,"Operational KPIs, Charts
 ≠
-""Qualitative metrics (estimations, false alram rates, etc)"", Charts",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
+Qualitative metrics, Charts",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 24,https://doi.org/10.1109/ICIEA51954.2021.9516436,y,simulation=simulation,n=n,purchasable,,y,,y,,na=na,y,,n=n,n=n,n=n,n=n,n=n,y=y,n=n,,T/V/T=T/V/T,,,,Accuracy=Accuracy,n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 25,https://doi.org/10.1109/PowerAfrica52236.2021.9543158,n=n,simulation=simulation,n,not mentioned=not mentioned,,y=y,,n=n,,na,n=n,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,Single-Split=Single-Split,,,,"Loss, Precision=Loss, Precision",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
-29,https://doi.org/10.1109/BigData.2016.7840749,n=n,real-world=real-world,y=y,not mentioned=not mentioned,,y=y,,n=n,,na=na,y=y,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,"""Qualitative metrics (estimations, false alram rates, etc)""=""Qualitative metrics (estimations, false alram rates, etc)""",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
+29,https://doi.org/10.1109/BigData.2016.7840749,n=n,real-world=real-world,y=y,not mentioned=not mentioned,,y=y,,n=n,,na=na,y=y,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,Qualitative metrics=Qualitative metrics,n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 30,https://doi.org/10.1109/CCTA.2019.8920554,n=n,simulation=simulation,n=n,not mentioned=not mentioned,,y=y,,n=n,,na=na,n=n,,y=y,n=n,y=y,y=y,n=n,y=y,n=n,,Single-Split=Single-Split,,,,"FPR, TPR, Charts=FPR, TPR, Charts",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
-32,https://doi.org/10.1109/BigData.2017.8258421,n=n,real-world=real-world,y,not mentioned=not mentioned,,y=y,,y,,na=na,y,,n=n,n=n,n=n,n=n,n=n,n,n=n,,not mentioned=not mentioned,,,,"""Qualitative metrics (estimations, false alram rates, etc)"", Charts=""Qualitative metrics (estimations, false alram rates, etc)"", Charts",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
+32,https://doi.org/10.1109/BigData.2017.8258421,n=n,real-world=real-world,y,not mentioned=not mentioned,,y=y,,y,,na=na,y,,n=n,n=n,n=n,n=n,n=n,n,n=n,,not mentioned=not mentioned,,,,"Qualitative metrics, Charts=Qualitative metrics, Charts",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 33,https://doi.org/10.1109/CASE56687.2023.10260667,n=n,simulation=simulation,y=y,not mentioned=not mentioned,,y=y,,n=n,,na=na,y=y,,n=n,n=n,n=n,n=n,n=n,y,n=n,,Single-Split=Single-Split,,,,"Accuracy, Precision, F1 score, Confusion Matrix
 ≠
 Precision, Accuracy, F1 score",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
@@ -53,7 +53,7 @@ Recall, Precision, Error Est., F1 score",n=n,,y=y,n=n,y=y,y=y,y=y,y=y,y=y,y=y,,,
 ≠
 Accuracy, F1 score, Precision, Recall",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 47,https://doi.org/10.1109/COASE.2016.7743463,n=n,real-world=real-world,n,not mentioned=not mentioned,,y=y,,y=y,,y,n=n,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,no metrics=no metrics,n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
-48,https://doi.org/10.1109/ICITBS.2016.41,n=n,real-world=real-world,y,not mentioned=not mentioned,,y=y,,n=n,,na=na,n=n,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,"""Qualitative metrics (estimations, false alram rates, etc)""
+48,https://doi.org/10.1109/ICITBS.2016.41,n=n,real-world=real-world,y,not mentioned=not mentioned,,y=y,,n=n,,na=na,n=n,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,"Qualitative metrics
 ≠
 no metrics",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 50,https://doi.org/10.1109/CoASE.2014.6899467,n=n,real-world=real-world,n=n,not mentioned=not mentioned,,y=y,,n=n,,na=na,y=y,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,Single-Split=Single-Split,,,,Fault Detection Rate=Fault Detection Rate,n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
@@ -64,23 +64,23 @@ Accuracy, F1 score, Recall, Precision",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na
 53,https://doi.org/10.1109/ICPES47639.2019.9105507,n=n,simulation=simulation,n,not mentioned=not mentioned,,y=y,,n=n,,na=na,y,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,Single-Split=Single-Split,,,,"FPR, Fault Detection Rate=FPR, Fault Detection Rate",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 56,https://doi.org/10.1145/3486611.3491122,n,simulation=simulation,n,not mentioned=not mentioned,,y,,n=n,,na=na,y,,y=y,y=y,n,n=n,n=n,y=y,y=y,,T/V/T=T/V/T,,,,"TPR, FPR=TPR, FPR",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 57,https://dl.acm.org/doi/10.5555/3615924.3623632,n=n,"simulation, real-world",n=n,proprietary=proprietary,,y=y,,n=n,,na=na,n=n,,y=y,y=y,n,n=n,n=n,y=y,y=y,,not mentioned=not mentioned,,,,"F1 score, AUC=F1 score, AUC",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
-59,https://doi.org/10.1145/3486611.3486644,n=n,simulation=simulation,n=n,not mentioned=not mentioned,,y=y,,n=n,,na=na,y,,y=y,n=n,y=y,n,n=n,y=y,n=n,,not mentioned=not mentioned,,,,"Error Est., ""Operational KPIs (man hour reduction, timeliness rate etc)""=Error Est., ""Operational KPIs (man hour reduction, timeliness rate etc)""",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
+59,https://doi.org/10.1145/3486611.3486644,n=n,simulation=simulation,n=n,not mentioned=not mentioned,,y=y,,n=n,,na=na,y,,y=y,n=n,y=y,n,n=n,y=y,n=n,,not mentioned=not mentioned,,,,"Error Est., Operational KPIs=Error Est., Operational KPIs",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 60,https://dl.acm.org/doi/10.1145/2674061.2675033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-61,https://doi.org/10.1145/2674061.2674067,n=n,real-world=real-world,n=n,not mentioned=not mentioned,,y=y,,n=n,,na=na,n=n,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,"""Qualitative metrics (estimations, false alram rates, etc)""=""Qualitative metrics (estimations, false alram rates, etc)""",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
+61,https://doi.org/10.1145/2674061.2674067,n=n,real-world=real-world,n=n,not mentioned=not mentioned,,y=y,,n=n,,na=na,n=n,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,Qualitative metrics=Qualitative metrics,n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 62,https://doi.org/10.1145/3587716.3587749,n=n,real-world=real-world,y=y,not mentioned=not mentioned,,y=y,,n=n,,na=na,n,,y,n=n,n=n,y,n=n,y,n=n,,not mentioned=not mentioned,,,,"F1 score, Accuracy, Recall, Precision, TPR
 ≠
 F1 score, Accuracy, Recall, Precision",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 63,https://dl.acm.org/doi/10.5555/2873021.2873029,n=n,"simulation, real-world=simulation, real-world",n=n,not mentioned=not mentioned,,n=n,,n=n,,na=na,n=n,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,no metrics=no metrics,n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 64,https://doi.org/10.1145/3508259.3508281,y=y,real-world=real-world,y=y,public=public,,y=y,,y=y,,na=na,y=y,,y=y,n=n,y=y,n=n,n=n,n=n,n=n,,Single-Split,,,,"F1 score, F2 score, TPR, FPR, Sensitivity, Specitivity, G-mean
 ≠
-sensitivity, specitivity, TPR, FPR, F2 score, F1 score, G-mean",n=n,,y=y,n=n,y=y,y=y,y=y,y=y,y=y,y,,,,
+Sensitivity, Specitivity, TPR, FPR, F2 score, F1 score, G-mean",n=n,,y=y,n=n,y=y,y=y,y=y,y=y,y=y,y,,,,
 66,https://doi.org/10.1016/j.ifacol.2024.08.346,n=n,not mentioned=not mentioned,n=n,not mentioned=not mentioned,,n=n,,n=n,,na=na,y=y,,y,n=n,y,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,Cluster related (Silhouette Index ...)=Cluster related (Silhouette Index ...),n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
-67,https://doi.org/10.1016/j.ifacol.2024.07.253,n=n,real-world=real-world,n=n,not mentioned=not mentioned,,n=n,,y,,na=na,y,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,Single-Split=Single-Split,,,,"Accuracy, FPR, FNR, ""Operational KPIs (man hour reduction, timeliness rate etc)""
+67,https://doi.org/10.1016/j.ifacol.2024.07.253,n=n,real-world=real-world,n=n,not mentioned=not mentioned,,n=n,,y,,na=na,y,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,Single-Split=Single-Split,,,,"Accuracy, FPR, FNR, Operational KPIs
 ≠
-Accuracy, ""Operational KPIs (man hour reduction, timeliness rate etc)""",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
+Accuracy, Operational KPIs",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 68,https://doi.org/10.1109/ICCCNT61001.2024.10724490,,,,,,,,y,,,y,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 69,https://doi.org/10.1109/CoDIT62066.2024.10708526,y,real-world=real-world,n=n,purchasable=purchasable,,y,,n=n,,na=na,n,,y=y,y,y,y,n=n,n=n,n=n,,T/V/T=T/V/T,,,,"Accuracy, Recall, Precision, F1 score, Confusion Matrix=Accuracy, Recall, Precision, F1 score, Confusion Matrix",y,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
-70,https://doi.org/10.1109/IJCNN60899.2024.10649959,n=n,real-world=real-world,y,not mentioned=not mentioned,,y=y,,y,,na=na,n=n,,y=y,n=n,y=y,n=n,n=n,y=y,n=n,,Single-Split=Single-Split,,,,"F1 score, Accuracy, Precision, Recall, ""Qualitative metrics (estimations, false alram rates, etc)""
+70,https://doi.org/10.1109/IJCNN60899.2024.10649959,n=n,real-world=real-world,y,not mentioned=not mentioned,,y=y,,y,,na=na,n=n,,y=y,n=n,y=y,n=n,n=n,y=y,n=n,,Single-Split=Single-Split,,,,"F1 score, Accuracy, Precision, Recall, Qualitative metrics
 ≠
 Accuracy, Recall, Precision, F1 score",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 71,https://doi.org/10.1109/I2MTC60896.2024.10560803,n=n,real-world,y=y,not mentioned=not mentioned,,y=y,,n=n,,na=na,n=n,,n,n=n,n=n,n=n,n=n,y,n=n,,Single-Split=Single-Split,,,,Error Est.=Error Est.,n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
@@ -122,7 +122,7 @@ Accuracy, Recall, Precision",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,
 ≠
 F1 score, Accuracy, Recall, Precision",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 106,https://doi.org/10.1109/ETFA46521.2020.9212088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-107,https://doi.org/10.1109/ICIoT48696.2020.9089508,n=n,simulation=simulation,y=y,not mentioned=not mentioned,,y=y,,n=n,,na=na,y=y,,y=y,n=n,y=y,n=n,n=n,y=y,n=n,,Single-Split=Single-Split,,,,"Accuracy, Sensitivity, Specitivity, Precision, F1 score, ""Qualitative metrics (estimations, false alram rates, etc)"", FPR
+107,https://doi.org/10.1109/ICIoT48696.2020.9089508,n=n,simulation=simulation,y=y,not mentioned=not mentioned,,y=y,,n=n,,na=na,y=y,,y=y,n=n,y=y,n=n,n=n,y=y,n=n,,Single-Split=Single-Split,,,,"Accuracy, Sensitivity, Specitivity, Precision, F1 score, Qualitative metrics, FPR
 ≠
 Accuracy, Precision, Recall, F1 score, specitivity, Fault Detection Rate",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
 109,https://doi.org/10.1109/CCTA.2019.8920554,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -139,4 +139,3 @@ Accuracy, Precision, Recall, F1 score, specitivity, Fault Detection Rate",n=n,,n
 138,https://doi.org/10.1109/CoASE.2014.6899463,n=n,simulation=simulation,y=y,not mentioned=not mentioned,,y=y,,y,,na=na,y=y,,n=n,n=n,n=n,n=n,n=n,n=n,n=n,,not mentioned=not mentioned,,,,"Q-statistic, Charts, Error Est.
 ≠
 Error Est., Charts",n=n,,n=n,na=na,na=na,na=na,na=na,na=na,na=na,na=na,,,,
-
