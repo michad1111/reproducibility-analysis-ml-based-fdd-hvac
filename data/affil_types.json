@@ -256,5 +256,7 @@
     "https://api.elsevier.com/content/author/author_id/54079611600": "University",
     "https://api.elsevier.com/content/author/author_id/36702009900": "Industry",
     "https://api.elsevier.com/content/author/author_id/7404910952": "Industry",
-    "https://api.elsevier.com/content/author/author_id/55673143000": "University"
+    "https://api.elsevier.com/content/author/author_id/55673143000": "University",
+    "https://api.elsevier.com/content/author/author_id/55720537400": "non-academic research",
+    "https://api.elsevier.com/content/author/author_id/26422640600": "non-academic research"
 }
